@@ -1,18 +1,17 @@
 # TenantsConnect – Cloud-Based Tenant Communication Platform
 Academic Project | Web Application | Role-Based Access System
 
-TenantsConnect is a prototype web platform developed as part of my BSc (Hons) Computing and IT final year project.
+The platform was developed as part of my BSc (Hons) Computing and IT final year project
 
 ![HTML](https://img.shields.io/badge/HTML5-orange)
-![CSS](https://img.shields.io/badge/CSS-blue)
+![CSS](https://img.shields.io/badge/CSS3-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple)
 ![ASP](https://img.shields.io/badge/ASP-Classic-red)
 ![Database](https://img.shields.io/badge/Database-Microsoft%20Access-green)
 ![Cloud](https://img.shields.io/badge/Cloud-AWS-orange)
 
-
-
+---
 ## Project Overview
 
 TenantsConnect is a prototype web-based platform designed to improve communication between tenants and housing administration within a housing cooperative.
