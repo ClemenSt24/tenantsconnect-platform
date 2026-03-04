@@ -4,7 +4,7 @@ Academic Project | Web Application | Role-Based Access System
 TenantsConnect is a prototype web platform developed as part of my BSc (Hons) Computing and IT final year project.
 
 ![HTML](https://img.shields.io/badge/HTML5-orange)
-![CSS](https://img.shields.io/badge/CSS3-blue)
+![CSS](https://img.shields.io/badge/CSS-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple)
 ![ASP](https://img.shields.io/badge/ASP-Classic-red)
