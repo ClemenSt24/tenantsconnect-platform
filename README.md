@@ -67,6 +67,7 @@ Tenant interface allowing users to submit repair requests, view notices, and com
 - Input validation
 - Authentication checks
 - Protection against SQL injection
+  
 
 ## Development Methodology
 
