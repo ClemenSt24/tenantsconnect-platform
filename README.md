@@ -2,7 +2,7 @@
 
 TenantsConnect is a prototype web platform developed as part of my BSc (Hons) Computing and IT final project.
 
-The platform was designed to improve communication between tenants and the housing administration within a housing cooperative.
+The platform was designed to improve communication between tenants and the housing administration in a housing cooperative.
 
 ---
 ## Features
