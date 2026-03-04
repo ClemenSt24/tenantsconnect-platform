@@ -1,8 +1,22 @@
 # TenantsConnect – Cloud-Based Tenant Communication Platform
 
 TenantsConnect is a prototype web platform developed as part of my BSc (Hons) Computing and IT final project.
+![HTML](https://img.shields.io/badge/HTML-5-orange)
+![CSS](https://img.shields.io/badge/CSS-3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-Framework-purple)
+![ASP](https://img.shields.io/badge/ASP-Classic-red)
+![Database](https://img.shields.io/badge/Database-Microsoft%20Access-green)
+![AWS](https://img.shields.io/badge/Cloud-AWS-orange)
 
-The platform was designed to improve communication between tenants and the housing administration in a housing cooperative.
+
+## Project Overview
+
+TenantsConnect is a prototype web-based platform designed to improve communication between tenants and housing administration within a housing cooperative.
+
+The system allows tenants to submit maintenance requests, enquiries, and complaints through a dedicated tenant dashboard, while administrative staff can manage tenant records, repair requests, and announcements through a separate staff dashboard.
+
+The platform was developed as part of my BSc (Hons) Computing and IT final project and demonstrates the implementation of a role-based web application using ASP Classic, JavaScript, and Microsoft Access. Deployment experiments were conducted using AWS EC2.
 
 ---
 ## Features
