@@ -74,11 +74,13 @@ The TenantsConnect platform follows a traditional web application architecture.
 - Hosted on a Windows Server environment using IIS
 - Cloud deployment experiments conducted using AWS EC2
   
+  
 ## Security Features
 
 - Input validation
 - Authentication checks
 - Protection against SQL injection
+  
   
 ## Development Methodology
 
@@ -89,6 +91,7 @@ testing, deployment, and continuous improvement based on feedback.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/94a9c33a-2fb5-4d80-87bd-6a86bfff367e" width="550">
 </p>
+
 
 ## Testing
 
@@ -109,6 +112,7 @@ The system architecture supports deployment on cloud infrastructure such as **AW
 allowing scalable hosting and remote access.
 
 
+
 ## Future Improvements
 
 Potential future improvements for the platform include:
@@ -118,6 +122,7 @@ Potential future improvements for the platform include:
 - Cloud-native deployment using AWS services
 - Enhanced authentication mechanisms
 - Improved responsive design for mobile devices
+
 
 ---
 ## Project Status
