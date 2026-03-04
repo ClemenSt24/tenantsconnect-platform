@@ -90,6 +90,7 @@ The TenantsConnect platform follows a traditional web application architecture.
 - Microsoft Access used as the relational database
 - Hosted on a Windows Server environment using IIS
 - Cloud deployment experiments conducted using AWS EC2
+
   
   
 ## Security Features
@@ -98,6 +99,7 @@ The TenantsConnect platform follows a traditional web application architecture.
 - Authentication checks
 - Protection against SQL injection
   
+
   
 ## Development Methodology
 
@@ -110,6 +112,7 @@ testing, deployment, and continuous improvement based on feedback.
 </p>
 
 
+
 ## Testing
 
 The platform was tested to ensure correct functionality and usability.  
@@ -120,6 +123,7 @@ Testing activities included:
 - Automated testing using **Katalon Studio**
 - Verification of authentication and user role access
 - Testing of form submissions and data handling
+
 
 
 ## Deployment
