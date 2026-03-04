@@ -12,7 +12,7 @@ The platform was designed to improve communication between tenants and the housi
 - Staff dashboard for managing tenant records
 - Role-based access and authentication
 
-## Screenshots
+---
 ## Screenshots
 
 ### Homepage
@@ -43,6 +43,7 @@ Tenant interface allowing users to submit repair requests, view notices, and com
   <img src="https://github.com/user-attachments/assets/694e4779-365d-4aac-9775-352d5f336182" width="900">
 </p>
 
+---
 ## Technologies Used
 
 ### Frontend
@@ -73,7 +74,9 @@ The TenantsConnect platform was developed following an Agile development methodo
 The development lifecycle included requirements gathering, design and development,  
 testing, deployment, and continuous improvement based on feedback.
 
-<img src="https://github.com/user-attachments/assets/94a9c33a-2fb5-4d80-87bd-6a86bfff367e" width="550">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/94a9c33a-2fb5-4d80-87bd-6a86bfff367e" width="550">
+</p>
 
 ## Testing
 
