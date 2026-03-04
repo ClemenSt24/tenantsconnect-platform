@@ -24,7 +24,8 @@ The main landing page of the TenantsConnect platform.
 </p>
 
 ### Login Page
-Secure login page with authentication and security verification code.
+Secure login page with authentication and security verification code.  
+Separate login access is provided for **tenants** and **staff users**, enabling role-based access to different dashboards and system functionalities.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6e9ed339-43c8-4444-89db-89596b10f5e2" width="400">
