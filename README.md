@@ -4,6 +4,7 @@ TenantsConnect is a prototype web platform developed as part of my BSc (Hons) Co
 
 The platform was designed to improve communication between tenants and the housing administration within a housing cooperative.
 
+---
 ## Features
 
 - Tenant dashboard for submitting repair requests
@@ -61,14 +62,24 @@ Tenant interface allowing users to submit repair requests, view notices, and com
 ### Infrastructure
 - AWS EC2 (deployment testing)
 - IIS (Windows Server)
+  
 
+## System Architecture
+
+The TenantsConnect platform follows a traditional web application architecture.
+
+- Client-side interface developed with HTML, CSS, JavaScript, and Bootstrap
+- Server-side logic implemented using ASP Classic
+- Microsoft Access used as the relational database
+- Hosted on a Windows Server environment using IIS
+- Cloud deployment experiments conducted using AWS EC2
+  
 ## Security Features
 
 - Input validation
 - Authentication checks
 - Protection against SQL injection
   
-
 ## Development Methodology
 
 The TenantsConnect platform was developed following an Agile development methodology.  
@@ -90,14 +101,27 @@ Testing activities included:
 - Verification of authentication and user role access
 - Testing of form submissions and data handling
 
+
 ## Deployment
 
 The TenantsConnect prototype was developed and tested in a web server environment.  
-The system architecture supports deployment on cloud infrastructure such as **AWS**  
-to enable scalable hosting and remote access.
+The system architecture supports deployment on cloud infrastructure such as **AWS EC2**,  
+allowing scalable hosting and remote access.
 
+
+## Future Improvements
+
+Potential future improvements for the platform include:
+
+- Migration from Microsoft Access to a scalable database such as MySQL or PostgreSQL
+- Implementation of RESTful APIs
+- Cloud-native deployment using AWS services
+- Enhanced authentication mechanisms
+- Improved responsive design for mobile devices
+
+---
 ## Project Status
 
 Prototype / Academic project.
 
-This repository contains documentation and screenshots for portfolio purposes.
+This repository contains documentation and screenshots demonstrating the platform's functionality and design.
