@@ -13,13 +13,13 @@ The platform was developed as part of my BSc (Hons) Computing and IT final year 
 
 ---
 ## Project Overview
-
+<p align="justify">
 TenantsConnect is a prototype web-based platform designed to improve communication between tenants and housing administration within a housing cooperative.
 
 The system allows tenants to submit maintenance requests, enquiries, and complaints through a dedicated tenant dashboard, while administrative staff can manage tenant records, repair requests, and announcements through a separate staff dashboard.
 
 The platform was developed as part of my BSc (Hons) Computing and IT final project and demonstrates the implementation of a role-based web application using ASP Classic, JavaScript, and Microsoft Access. Deployment experiments were conducted using AWS EC2.
-
+</p>
 ---
 ## Features
 
