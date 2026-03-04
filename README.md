@@ -1,6 +1,7 @@
 # TenantsConnect – Cloud-Based Tenant Communication Platform
+Academic Project | Web Application | Role-Based Access System
 
-TenantsConnect is a prototype web platform developed as part of my BSc (Hons) Computing and IT final project.
+TenantsConnect is a prototype web platform developed as part of my BSc (Hons) Computing and IT final year project.
 
 ![HTML](https://img.shields.io/badge/HTML-5-orange)
 ![CSS](https://img.shields.io/badge/CSS-3-blue)
@@ -40,7 +41,7 @@ The main landing page of the TenantsConnect platform.
 
 ### Login Page
 Secure login page with authentication and security verification code.  
-Separate login access is provided for **tenants** and **staff users**, enabling role-based access to different dashboards and system functionalities.
+Separate login access is provided for tenants and staff, enabling role-based access to different dashboards and system functionalities.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6e9ed339-43c8-4444-89db-89596b10f5e2" width="400">
@@ -79,7 +80,7 @@ Tenant interface allowing users to submit repair requests, view notices, and com
 - AWS EC2 (deployment testing)
 - IIS (Windows Server)
   
-
+---
 ## System Architecture
 
 The TenantsConnect platform follows a traditional web application architecture.
