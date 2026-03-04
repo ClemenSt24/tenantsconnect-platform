@@ -13,7 +13,35 @@ The platform was designed to improve communication between tenants and the housi
 - Role-based access and authentication
 
 ## Screenshots
+## Screenshots
 
+### Homepage
+The main landing page of the TenantsConnect platform.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/50a3ead2-dbad-4486-9fab-95f027e1f5f6" width="900">
+</p>
+
+### Login Page
+Secure login page with authentication and security verification code.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6e9ed339-43c8-4444-89db-89596b10f5e2" width="400">
+</p>
+
+### Staff Dashboard
+Administrative dashboard used by staff to manage tenants, properties, and system records.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f70c5afc-3395-4978-8abe-8e2794b65d6c" width="900">
+</p>
+
+### Tenant Dashboard
+Tenant interface allowing users to submit repair requests, view notices, and communicate with housing administration.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/694e4779-365d-4aac-9775-352d5f336182" width="900">
+</p>
 
 ## Technologies Used
 
